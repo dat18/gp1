@@ -18,11 +18,11 @@
 
 重要な部分は書き込まれていません。講義を聴きながら、完成させてもらいます。右上の鉛筆マークをクリックすると、編集画面が開きます。
 
-![edit page](images/02/00.png)
+![edit page](https://raw.githubusercontent.com/dat17/gp1/master/images/02/00.png)
 
 編集は、<b>マークダウン</b>という記法を使います。
 
-![mark down page](images/02/01.png)
+![mark down page](https://raw.githubusercontent.com/dat17/gp1/master/images/02/01.png)
 
 入力した文字はそのまま表示されます。
 
@@ -66,7 +66,7 @@
 ### 書き込んだ内容を保存
 メモを書き込んだら、画面下にスクロールさせて、以下の[Commit changes]ボタンをクリックすると、保存されます。
 
-![commit](images/02/02.png)
+![commit](https://raw.githubusercontent.com/dat17/gp1/master/images/02/02.png)
 
 編集を再開する場合は、また鉛筆アイコンをクリックしてください。
 
