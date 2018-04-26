@@ -4,14 +4,27 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
-# 1回目(2018/4/20)
+# 2回目(4/27)
+## 話題
+- [【お題にチャレンジ】あなたの欲しいアセットの50%分が手に入る！？アセットバウチャー総額 『$1,000（約10万円）＋α』山分けプレゼント](http://www.asset-sale.net/entry/ChallengeEvent180417)
+
+## 復習用動画
+
+## 予定
+- 書く教科書で学ぶC#
+  - プロパティの確認
+  - 計算
+- Unityで遊ぶ
+- Paizaによる独習(C#, HTML/CSS)
+
+# 1回目(4/20)
 ## 話題
 - [【お題にチャレンジ】あなたの欲しいアセットの50%分が手に入る！？アセットバウチャー総額 『$1,000（約10万円）＋α』山分けプレゼント](http://www.asset-sale.net/entry/ChallengeEvent180417)
 
 ## 復習用動画
 - https://www.youtube.com/watch?v=BmZN-ciT7sQ
 
-## 予定
+## 内容
 - ガイダンス-シラバスの確認、プログラミングの正体-
 - Visual Studioを試す
 - Unityを試す
@@ -20,9 +33,6 @@
 - ドットインストールでの学び方
   - [ドットインストール Unity(4.2)入門](http://dotinstall.com/lessons/basic_unity)
 - [C# 書く教科書 はじめ方](cs-gettingstarted.md)
-- e-typing練習
-  - [タイピング練習サービス e-typing](https://www.e-typing.ne.jp/)
-
 
 # 参考URL
 - [Unity](http://japan.unity3d.com/)
