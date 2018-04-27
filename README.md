@@ -9,6 +9,7 @@
 - [【お題にチャレンジ】あなたの欲しいアセットの50%分が手に入る！？アセットバウチャー総額 『$1,000（約10万円）＋α』山分けプレゼント](http://www.asset-sale.net/entry/ChallengeEvent180417)
 
 ## 復習用動画
+- https://www.youtube.com/watch?v=-CkvvzFT5bE
 
 ## 予定
 - 書く教科書で学ぶC#
