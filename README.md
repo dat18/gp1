@@ -6,6 +6,7 @@
 
 # 3回目(5/4)
 ## 復習用動画
+- https://www.youtube.com/watch?v=cnxeKhGph8w
 
 ## 予定
 - [前回までのメモ](https://github.com/dat18/csharp-manual)
