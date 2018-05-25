@@ -22,6 +22,7 @@
 - if文
   - 跳ね返りを作成
 - Unityでの跳ね返り
+  - https://docs.google.com/document/d/1oHhEYTuhYm_saZosKwEbLYlIvAKJt0N5yc0gsUcGbWo/edit?usp=sharing
 
 # 4回目(5/18)
 ## 復習用動画
