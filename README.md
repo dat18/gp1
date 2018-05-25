@@ -4,14 +4,27 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
+# 6回目(6/1)
+## 復習用動画
+
+## 予定
+- [前回までのメモ](https://github.com/dat18/csharp-manual)
+- 前回の復習として、演習8を進める https://github.com/dat18/csharp-manual/blob/master/08.md#%E6%BC%94%E7%BF%928-1
+- switch文の書き方(文法だけ確認)
+- if文その2 複合演算子
+  - 演習11
+- 乱数
+  - 演習12
+- Unityでの跳ね返りの続き
+  - https://docs.google.com/document/d/1oHhEYTuhYm_saZosKwEbLYlIvAKJt0N5yc0gsUcGbWo/edit?usp=sharing
+
+
 # 5回目(5/25)
 ## 課題の確認
 - C#マニュアル 07.md の型違いの値を代入する方法を調べて、ドキュメントに記入する
 - Unityで操作する
 
-## 復習用動画
-
-## 予定
+## 内容
 - [前回までのメモ](https://github.com/dat18/csharp-manual)
 - 前回の復習
   - 新しいプロジェクト fuku0525 を作成
@@ -21,6 +34,8 @@
   - ボタンを押すと、ラベルが、押したボタンの方向に移動を続ける(停止は停止)ようにせよ
 - if文
   - 跳ね返りを作成
+- マウス操作
+  - ラベルをマウスで操作
 - Unityでの跳ね返り
   - https://docs.google.com/document/d/1oHhEYTuhYm_saZosKwEbLYlIvAKJt0N5yc0gsUcGbWo/edit?usp=sharing
 
