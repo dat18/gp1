@@ -4,10 +4,14 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
-# 6回目(6/1)
-## 復習用動画
-
+# 7回目(6/8)
 ## 予定
+- [前回までのメモ](https://github.com/dat18/csharp-manual)
+- 配列と繰り返し
+
+
+# 6回目(6/1)
+## 内容
 - [前回までのメモ](https://github.com/dat18/csharp-manual)
 - 前回の復習として、演習8-2以降をやる https://github.com/dat18/csharp-manual/blob/master/08.md#%E6%BC%94%E7%BF%928-1
 - switch文の書き方(文法だけ確認)
@@ -17,6 +21,8 @@
   - 演習12
 - Unityでの跳ね返りの続き その2
   - https://docs.google.com/document/d/1oHhEYTuhYm_saZosKwEbLYlIvAKJt0N5yc0gsUcGbWo/edit?usp=sharing
+- Unityでの乱数
+  - https://docs.google.com/document/d/1bUtOQ6jVgO1ICYCmP2_Y5mCzlelq85slLIMeN5J9bvI/edit?usp=sharing
 
 
 # 5回目(5/25)
