@@ -15,7 +15,7 @@
   - 演習11
 - 乱数
   - 演習12
-- Unityでの跳ね返りの続き
+- Unityでの跳ね返りの続き その2
   - https://docs.google.com/document/d/1oHhEYTuhYm_saZosKwEbLYlIvAKJt0N5yc0gsUcGbWo/edit?usp=sharing
 
 
