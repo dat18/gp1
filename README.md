@@ -17,6 +17,7 @@
     - すでに完了している人は、ラベルの種類を増やして、触ったら即ゲームオーバーになる方法を検討しよう
 - 状態遷移
   - https://docs.google.com/presentation/d/1yeiHMxu-t-3hemuMqLaaBPBKL5E1XPuMNxEfa8tyijU/edit?usp=sharing
+  - よけとる2018の遷移図 https://www.lucidchart.com/invitations/accept/a6791c9a-9788-4e1a-93a4-b77c2ddba6c2
 - Unityで実装
 
 # 7回目(6/8)
