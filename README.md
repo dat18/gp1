@@ -16,6 +16,7 @@
     - 以上を、13:30まで作業して、GitHubにリポジトリーを作成して、登録する
     - すでに完了している人は、ラベルの種類を増やして、触ったら即ゲームオーバーになる方法を検討しよう
 - 状態遷移
+  - https://docs.google.com/presentation/d/1yeiHMxu-t-3hemuMqLaaBPBKL5E1XPuMNxEfa8tyijU/edit?usp=sharing
 - Unityで実装
 
 # 7回目(6/8)
