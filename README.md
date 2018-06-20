@@ -8,8 +8,12 @@
 ## 宿題
 - プレイヤー、アイテム、障害物、背景用のモデルをAsset Storeなどで探して、プロジェクトにインポートしておく
   - 採用したアセットのURL、あるいは、作者名＋アセット名をメモしておくこと(Googleドライブにドキュメントを作るなど)
-
+  - MagicaVoxelで用意する場合は、モデルを作成して保存しておく
+  
 ## 予定
+- MagicaVoxelのモデルをBlenderでエクスポートした時に、テクスチャーを有効にする手順(以下を調査したが、うまく動いていない)
+  - https://www.youtube.com/watch?v=26_9J_CVUnk
+  - https://bitbucket.org/renderhjs/blender-addon-fbx-bundle/overview
 - Visual Studioで作ったやつの実装例を確認
 - TextMesh Proを使って、タイトル画面を作る
 - 各シーンのモックを作成
