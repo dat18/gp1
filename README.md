@@ -11,10 +11,20 @@
   - MagicaVoxelで用意する場合は、モデルを作成して保存しておく
   
 ## 予定
-- MagicaVoxelのモデルをBlenderでエクスポートした時に、テクスチャーを有効にする手順(以下を調査したが、うまく動いていない)
-  - https://www.youtube.com/watch?v=26_9J_CVUnk
-  - https://bitbucket.org/renderhjs/blender-addon-fbx-bundle/overview
-- Visual Studioで作ったやつの実装例を確認
+- MagicaVoxelのモデルをBlenderでエクスポートした時に、テクスチャーを有効にする手順
+  - ply形式は頂点カラーのみなので、マテリアルやテクスチャーが存在しない
+  - 自分でテクスチャーをベイクして生成する必要がある
+    - UV Mappingレイアウトに変更して、すべての面を選択
+    - 3D ViewでEditモードにして、Mesh -> UV Unwrap -> Smart UV Projectを選択
+    - Island Marginを0.06程度にしてOKでUV展開
+    - UVエディターの下でNewをクリックして、テクスチャー名と、展開したマス目の数から適当なテクスチャーサイズを考えて(分割数x4程度)設定
+    - 3D ViewをPropertiesに変更
+    - 下から2番目ぐらいのBakeをクリックして開く
+    - Bake ModeをVertex Colorsに変更して、Marginを4pxなどにしてBakeボタンをクリック
+    - 以上でテクスチャーが生成されるので、UVエディターでイメージを保存
+    - FileメニューからFBXなどでエクスポート
+    - 以上で出力したFBXファイルとPNGファイルをUnityに読み込んで、マテリアルを展開後、テクスチャーをAlbedo欄にドラッグ＆ドロップ
+- 前回、Visual Studioで作ったすべて取ったら止めるプログラムの実装例を紹介
 - TextMesh Proを使って、タイトル画面を作る
 - 各シーンのモックを作成
 - 状態遷移を実装
