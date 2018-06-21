@@ -19,6 +19,15 @@
 - 各シーンのモックを作成
 - 状態遷移を実装
 
+## 田中の利用ツール
+- MagicaVoxel https://ephtracy.github.io/
+  - キャラクターのモデリングに作成
+- Blender https://www.blender.org/
+  - MagicaVoxelで作成したキャラクターのテクスチャーを作成
+- PostProcessing Stack https://assetstore.unity.com/packages/essentials/post-processing-stack-83912
+  - 画面を光らせる
+
+
 # 8回目(6/15)
 ## 内容
 - [前回までのメモ](https://github.com/dat18/csharp-manual)
