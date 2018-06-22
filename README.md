@@ -10,20 +10,8 @@
   - 採用したアセットのURL、あるいは、作者名＋アセット名をメモしておくこと(Googleドライブにドキュメントを作るなど)
   - MagicaVoxelで用意する場合は、モデルを作成して保存しておく
   
-## 予定
-- MagicaVoxelのモデルをBlenderでエクスポートした時に、テクスチャーを有効にする手順(MagicaVoxelで作ってきた人がいなければ水曜日にやります)
-  - ply形式は頂点カラーのみなので、マテリアルやテクスチャーが存在しない
-  - 自分でテクスチャーをベイクして生成する必要がある
-    - UV Mappingレイアウトに変更して、すべての面を選択
-    - 3D ViewでEditモードにして、Mesh -> UV Unwrap -> Smart UV Projectを選択
-    - Island Marginを0.06程度にしてOKでUV展開
-    - UVエディターの下でNewをクリックして、テクスチャー名と、展開したマス目の数から適当なテクスチャーサイズを考えて(分割数x4程度)設定
-    - 3D ViewをPropertiesに変更
-    - 下から2番目ぐらいのBakeをクリックして開く
-    - Bake ModeをVertex Colorsに変更して、Marginを4pxなどにしてBakeボタンをクリック
-    - 以上でテクスチャーが生成されるので、UVエディターでイメージを保存
-    - FileメニューからFBXなどでエクスポート
-    - 以上で出力したFBXファイルとPNGファイルをUnityに読み込んで、マテリアルを展開後、テクスチャーをAlbedo欄にドラッグ＆ドロップ
+## 内容
+- 作業手順 https://docs.google.com/presentation/d/1KLxUlIFEUuwKLJAyj09wED_JSNA6SbS8gvbHMpCj22k/edit?usp=sharing
 - 前回、Visual Studioで作ったすべて取ったら止めるプログラムの実装例を紹介
 - GitHub for Unityの利用
   - Asset Storeからインポート
@@ -40,6 +28,22 @@
     - ゲーム全体を管理するためのクラス`GameSystem`の作成
     - https://github.com/UnityCommunity/UnitySingleton
 - 最後、Asset Storeからのサインアウトを忘れずに
+
+## 個別＆水曜日
+- MagicaVoxelのモデルをBlenderでエクスポートした時に、テクスチャーを有効にする手順(MagicaVoxelで作ってきた人がいなければ水曜日にやります)
+  - ply形式は頂点カラーのみなので、マテリアルやテクスチャーが存在しない
+  - 自分でテクスチャーをベイクして生成する必要がある
+    - UV Mappingレイアウトに変更して、すべての面を選択
+    - 3D ViewでEditモードにして、Mesh -> UV Unwrap -> Smart UV Projectを選択
+    - Island Marginを0.06程度にしてOKでUV展開
+    - UVエディターの下でNewをクリックして、テクスチャー名と、展開したマス目の数から適当なテクスチャーサイズを考えて(分割数x4程度)設定
+    - 3D ViewをPropertiesに変更
+    - 下から2番目ぐらいのBakeをクリックして開く
+    - Bake ModeをVertex Colorsに変更して、Marginを4pxなどにしてBakeボタンをクリック
+    - 以上でテクスチャーが生成されるので、UVエディターでイメージを保存
+    - FileメニューからFBXなどでエクスポート
+    - 以上で出力したFBXファイルとPNGファイルをUnityに読み込んで、マテリアルを展開後、テクスチャーをAlbedo欄にドラッグ＆ドロップ
+
 
 ## 田中の利用ツール
 - MagicaVoxel https://ephtracy.github.io/
