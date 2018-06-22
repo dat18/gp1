@@ -33,8 +33,11 @@
 - TextMesh Proを使って、タイトル画面を作る
 - 各シーンのモックを作成
 - 状態遷移を実装
-- ゲーム全体を管理するためのクラス`GameSystem`の作成
-  - https://github.com/UnityCommunity/UnitySingleton
+  - シーンの切り替え
+  - マルチシーンの使い方(ゲームオーバーとクリア)
+  - シーン間のデータのやりとり(先のプレイ時のスコアをタイトルに表示するには？)
+    - ゲーム全体を管理するためのクラス`GameSystem`の作成
+    - https://github.com/UnityCommunity/UnitySingleton
 - 最後、Asset Storeからのサインアウトを忘れずに
 
 ## 田中の利用ツール
