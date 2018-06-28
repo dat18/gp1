@@ -5,6 +5,9 @@
 - [シラバス](syllabus.md)
 
 # 10回目(6/29)
+## 話題
+- [Weeyble. 7/5(木) ３Hカジュアルゲームハッカソン](https://weeyble-game.connpass.com/event/91638)
+
 ## 宿題
 - ゲームのモックを作成して、GitHubにプッシュしておく
   - 全てのキャラクターのZ座標は0に統一
