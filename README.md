@@ -7,6 +7,7 @@
 # 10回目(6/29)
 ## 話題
 - [Weeyble. 7/5(木) ３Hカジュアルゲームハッカソン](https://weeyble-game.connpass.com/event/91638)
+- [Unity1DayChangejam参加しました報告ツイート](https://twitter.com/am1tanaka/status/1012312948587388928)
 
 ## 宿題
 - ゲームのモックを作成して、GitHubにプッシュしておく
