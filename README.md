@@ -13,6 +13,11 @@
   - 全てのキャラクターのZ座標は0に統一
   - 敵の数は5～10程度
   - アイテムの数は10個程度
+  - 上記をやっていない場合
+    - https://github.com/dat18/gp1 を開く
+    - 右の緑色のClone or downloadボタンをクリックして、Download ZIPを選択してzipをダウンロード
+    - ダウンロードが終わったらzipファイルを開いて、yoketoru2018-masterフォルダーを、ドキュメントフォルダーのUnityProjectsフォルダー内にドラッグ＆ドロップしてコピーする
+    - Unityを起動して、ドキュメントフォルダー/UnityProjects/yoketoru2018-masterを開く
 
 ## 予定
 - 状態遷移を実装
