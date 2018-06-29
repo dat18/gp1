@@ -21,6 +21,7 @@
     - Unityを起動して、ドキュメントフォルダー/UnityProjects/yoketoru2018-masterを開く
 
 ## 予定
+- [作業手順](https://docs.google.com/document/d/1VY9Ukl8DF8nQhZIH1hYxdvMYWBoWpdTTZ4vidKmQH00/edit?usp=sharing)
 - 状態遷移を実装
   - シーンの切り替え
   - マルチシーンの使い方(ゲームオーバーとクリア)
