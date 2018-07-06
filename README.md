@@ -5,6 +5,9 @@
 - [シラバス](syllabus.md)
 
 # 11回目(7/6)
+## 作業手順
+- [作業手順](https://docs.google.com/document/d/1MghETpX1LxJhwRWHIcRHQF3NLMV1cLR-RagdZXPKZus/edit?usp=sharing)
+
 ## 予定
 - シーン間のデータのやりとりの続き
   - シーンが切り替わった時に、スコアのインスタンスをGameSystemに渡す
