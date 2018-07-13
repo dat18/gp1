@@ -29,6 +29,9 @@
 
 ---
 
+## 作業手順
+- [作業手順](https://docs.google.com/document/d/1gkqmPPi0-a4p6CHlCa2T0S2mbpYUPyBgvY-6pJMTEQQ/edit?usp=sharing)
+
 ## 予定
 - ゲームオーバーが多重に発生するのを抑制(GameSystemにシーンが開かれているチェックを追加)
 - BGMの再生(おおざっぱなやり方)
