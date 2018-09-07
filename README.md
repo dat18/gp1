@@ -9,6 +9,9 @@
 ## 夏休み課題発表
 
 ## DATフェスタ企画会議
+- 企画会議
+- スケジュール表を準備する
+  - https://docs.google.com/spreadsheets/d/1cfjxUIEw3Pah5TY0lFlo-La3nSsQWuIur4t195lyxqA/edit?usp=sharing を開く
 - プロジェクトを作成する
 - 解像度を決める
 - Unity Collaborateに設定
