@@ -8,10 +8,16 @@
 # 14回目(9/7)
 ## 夏休み課題発表
 
+## 開発情報を共有する
+- 代表がGitHubで組織を作り、メンバーを登録
+- 組織に卒業制作用のリポジトリーを作る
+- README.mdに以下を作成して、貼り付ける
+- Googleドライブのサービスを利用して共有(ドキュメント、スライド、スプレッドシート、その他、どれでもよい)
+- 以下のスケジュール表を、代表者のGoogleドライブで新規に作成したスプレッドシートに貼り付けて、メンバーに共有
+  - https://docs.google.com/spreadsheets/d/1cfjxUIEw3Pah5TY0lFlo-La3nSsQWuIur4t195lyxqA/edit?usp=sharing
+
 ## DATフェスタ企画会議
 - 企画会議
-- スケジュール表を準備する
-  - https://docs.google.com/spreadsheets/d/1cfjxUIEw3Pah5TY0lFlo-La3nSsQWuIur4t195lyxqA/edit?usp=sharing を開く
 - プロジェクトを作成する
 - 解像度を決める
 - Unity Collaborateに設定
@@ -19,10 +25,6 @@
     - 同時に同じシーンやプレハブをいじらないこと
     - ファイルごとに担当者を決めて、その人以外は操作しないようにする
     - テスト用のシーンを担当者人数分作って、開発は個別のシーンで行う
-- スケジュールをTrelloに作成
-  - 作業項目の大項目をリストで作成
-  - 大項目ごとの作業項目をカードで作成
-  - 担当者と期限を決める
 
 
 # 13回目(7/20)
