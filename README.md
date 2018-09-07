@@ -6,6 +6,9 @@
 - DATフェスタ　展示教室 602
 
 # 14回目(9/7)
+## 作業手順
+- [作業手順](https://docs.google.com/document/d/1C7CcAMjdtumUIqNNISYJOU6tOBHnfFLbbuvWJjbV-sY/edit?usp=sharing)
+
 ## 夏休み課題発表
 
 ## 開発情報を共有する
