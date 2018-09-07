@@ -12,9 +12,12 @@
 - 代表がGitHubで組織を作り、メンバーを登録
 - 組織に卒業制作用のリポジトリーを作る
 - README.mdに以下を作成して、貼り付ける
-- Googleドライブのサービスを利用して共有(ドキュメント、スライド、スプレッドシート、その他、どれでもよい)
-- 以下のスケジュール表を、代表者のGoogleドライブで新規に作成したスプレッドシートに貼り付けて、メンバーに共有
-  - https://docs.google.com/spreadsheets/d/1cfjxUIEw3Pah5TY0lFlo-La3nSsQWuIur4t195lyxqA/edit?usp=sharing
+- 企画用の資料をGoogleドライブのサービスを利用して作成して共有(ドキュメント、スライド、スプレッドシート、その他、どれでもよい)
+- スケジュール表を作成する
+  - [DATフェスタまでの簡易カレンダー](https://docs.google.com/spreadsheets/d/1cfjxUIEw3Pah5TY0lFlo-La3nSsQWuIur4t195lyxqA/edit?usp=sharing
+ )
+  - [ガントチャートサービス TeamGantt](https://app.teamgantt.com/login)
+    - 記事 https://dev.classmethod.jp/project-management/ando-20180701/
 - Trelloの導入
   - 作業管理に向いている
   - 実際のスケジュール管理は、Googleスプレッドシートではなくこちらの方が楽かも
