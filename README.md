@@ -15,9 +15,18 @@
 - Googleドライブのサービスを利用して共有(ドキュメント、スライド、スプレッドシート、その他、どれでもよい)
 - 以下のスケジュール表を、代表者のGoogleドライブで新規に作成したスプレッドシートに貼り付けて、メンバーに共有
   - https://docs.google.com/spreadsheets/d/1cfjxUIEw3Pah5TY0lFlo-La3nSsQWuIur4t195lyxqA/edit?usp=sharing
+- Trelloの導入
+  - 作業管理に向いている
+  - 実際のスケジュール管理は、Googleスプレッドシートではなくこちらの方が楽かも
+- [Discord](https://discordapp.com/)
+  - もともとはゲーマー向けのボイス＆テキストチャットサービス
+  - 相談などが楽
+  - LineやSkype、Slackなどでもよいし使わなくてもよい
 
 ## DATフェスタ企画会議
 - 企画会議
+- スケジュール作成
+  - 参考 https://prod.teamgantt.com/gantt/schedule/?ids=843041&public_keys=eXjoWRdx8pM7&zoom=d100&font_size=11&estimated_hours=0&assigned_resources=0&percent_complete=0&documents=0&comments=0&col_width=255&menu_view=0&resource_filter=0&name_in_bar=0&name_next_to_bar=1&resource_names=0#user=&company=&custom=&date_filter=&hide_completed=false&color_filter=&ids=843041
 - プロジェクトを作成する
 - 解像度を決める
 - Unity Collaborateに設定
