@@ -5,6 +5,16 @@
 - [シラバス](syllabus.md)
 - DATフェスタ　展示教室 602
 
+# 15回目(9/14)
+## 予定
+- 各チームごとにゲームシステムの作成
+  - [シンプルフレームワーク](https://github.com/am1tanaka/OpenFrameworkMini)を各チームのプロジェクトに組み込む
+- Unity Collaborateでの作業の注意点と演習
+  - シーンは同時に操作しないこと
+  - シーンを変更する作業を行う場合は、作業専用のシーンを作成して、そこで行うこと
+- 作業予定をTrelloにまとめる
+- 開発作業
+
 # 14回目(9/7)
 ## 作業手順
 - [作業手順](https://docs.google.com/document/d/1C7CcAMjdtumUIqNNISYJOU6tOBHnfFLbbuvWJjbV-sY/edit?usp=sharing)
