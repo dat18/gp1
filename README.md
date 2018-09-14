@@ -11,6 +11,22 @@
   - 1920x1080
 - 各チームごとにヒアリング
   - 企画と仕様書のまとめ
+    - どのようなシーンがあるか
+    - 各シーンをどのように作るか
+    - どのようなきっかけで、シーンの切り替えが発生するか
+    - 各シーンのサムネイル(時間をかけないこと！)
+    - 操作の具体的な方法
+    - ゲームメカニクスについての検討(作業予定に反映させるため)
+    - BGMや効果音のリスト
+      - [魔法魂](http://maoudamashii.jokersounds.com/)
+      - [効果音ラボ](http://soundeffect-lab.info/)
+      - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
+      - [H/MIX GALLARY](http://www.hmix.net/)
+      - [音楽の卵](http://ontama-m.com/)
+      - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
+      - [Unity Technologies Japan. クリックするだけで効果音を自動生成する「bfxr」](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
+      - [効果音作成ツールBfxr](http://www.bfxr.net/)
+      - [AudioTrimmer MP3などをトリミングできるサイト](https://audiotrimmer.com/)
   - 作業予定をTrelloにまとめる
 - 各チームごとにゲームシステムの作成
   - 必要に応じて、[シンプルフレームワーク](https://github.com/am1tanaka/OpenFrameworkMini)を各チームのプロジェクトに組み込む
