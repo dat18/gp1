@@ -9,6 +9,7 @@
 - DATフェスタ作業
 
 ## 参考URL
+- [日本語から変数や関数名の候補を示してくれる](https://codic.jp/)
 - [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
