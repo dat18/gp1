@@ -8,6 +8,10 @@
 # 後期2回目
 - DATフェスタ作業
 
+## 参考URL
+- [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
+- [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
+
 # 後期1回目
 - DATフェスタ作業
 
