@@ -5,6 +5,32 @@
 - [シラバス](syllabus.md)
 - DATフェスタ　展示教室 602
 
+## 参考URL
+- [日本語から変数や関数名の候補を示してくれる](https://codic.jp/)
+- [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
+- [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
+
+
+# 後期6回目
+## 話題
+- [Unity1週間ゲームジャム](https://unityroom.com/unity1weeks)
+  - 11/19(月) 0:00 ～ 11/25(日) 20:00
+- [unityroom アドベントカレンダー 2018](https://unityroom.com/events/1054)
+  - 登録して、作品展の作品か、1週間ゲームジャムの作品をブラッシュアップして出しましょう！
+
+## これからの予定
+- とりあえず1週間ゲームジャムをやる
+- 作品のコードレビューをするので、プロジェクトを提出
+- プログラムの設計の話
+  - リーダブルコード
+  - コードとデータの分離などの原則
+  - オブジェクト指向
+- できれば取り組みたいこと
+  - Unity ML-Agentsツールキット(AI)
+  - Photon Bolt(P2Pネットワーク対戦ゲーム開発用ライブラリ)
+
+---
+
 # 後期5回目
 ## 話題
 - 知ってる？特にヨウくん https://www.egret.com/en/
@@ -33,11 +59,6 @@
 
 # 後期2回目
 - DATフェスタ作業
-
-## 参考URL
-- [日本語から変数や関数名の候補を示してくれる](https://codic.jp/)
-- [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
-- [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
 # 後期1回目
 - DATフェスタ作業
