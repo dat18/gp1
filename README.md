@@ -18,6 +18,9 @@
 - [unityroom アドベントカレンダー 2018](https://unityroom.com/events/1054)
   - 登録して、作品展の作品か、1週間ゲームジャムの作品をブラッシュアップして出しましょう！
 
+## 今日の資料
+- https://docs.google.com/document/d/15HFVwW2Ly99z-jH79YbJrcyO9rq47Fmlmt4NDATjQhk/edit?usp=sharing
+
 ## これからの予定
 - とりあえず1週間ゲームジャムをやる
 - 作品のコードレビューをするので、プロジェクトを提出
