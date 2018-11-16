@@ -10,6 +10,11 @@
 - [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
+# Unity1週間ゲームジャム
+- 11/19(月) 0:00 お題発表＆スタート
+- 11/25(日) 20:00 終了
+- 関連ツイート https://twitter.com/hashtag/unity1week?f=tweets&vertical=default
+
 
 # 後期6回目
 ## 話題
