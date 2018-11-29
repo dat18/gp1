@@ -26,10 +26,8 @@
   - アルゴリズムのトレーニング
     - paizaの[スキルチェック](https://paiza.jp/challenges。アルゴリズムとして説得力が出るのはランクB以上
 - テーマ
-  - オブジェクト指向
+  - オブジェクト指向 https://1drv.ms/b/s!Anf4PowESFUjg8NhEPWje8i-_OHzZw
   - コードとデータの分離
-- 将棋の動きを実装してみよう
-  - https://www.shogi.or.jp/
 
 ## 2コマ目：Unity1週間ゲームジャム
 - サーシャさん・・・棒の色が出ないのは、WebGLのQuality設定をしていないから
