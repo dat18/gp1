@@ -32,6 +32,9 @@
 ## 2コマ目：Unity1週間ゲームジャム
 - サーシャさん・・・棒の色が出ないのは、WebGLのQuality設定をしていないから
 - ヨウくん・・・・・アドベントカレンダー仕上げ
+  - サンタ
+    - https://opengameart.org/content/santa-rework
+    - https://opengameart.org/content/winter-tileset-16x16
 - 各自作業
 
 # 後期6回目
