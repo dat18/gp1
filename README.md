@@ -36,6 +36,7 @@
   - サンタ
     - https://opengameart.org/content/santa-rework
     - https://opengameart.org/content/winter-tileset-16x16
+  - unityroomに作品登録と共同作業準備
 - 各自作業
 
 # 後期6回目
