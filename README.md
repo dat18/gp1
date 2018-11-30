@@ -25,7 +25,7 @@
     - Unityでゲームが作れても、**プログラマーとして評価されないことが多い**
     - Unityで学びにくい部分をUnityで学ぶ
   - アルゴリズムのトレーニング
-    - paizaの[スキルチェック](https://paiza.jp/challenges。アルゴリズムとして説得力が出るのはランクB以上
+    - paizaの[スキルチェック](https://paiza.jp/challenges)。アルゴリズムとして説得力が出るのはランクB以上
 - テーマ：将棋盤の制作
   - オブジェクト指向 https://1drv.ms/b/s!Anf4PowESFUjg8NhEPWje8i-_OHzZw
   - コードとデータの分離
