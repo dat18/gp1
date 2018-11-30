@@ -29,6 +29,8 @@
 - テーマ：将棋盤の制作
   - オブジェクト指向 https://1drv.ms/b/s!Anf4PowESFUjg8NhEPWje8i-_OHzZw
   - コードとデータの分離
+- プログラムコード
+  - https://gist.github.com/tanakaedu/a55477056822950e6ab59f16efc83dbb
 
 ## 2コマ目：Unity1週間ゲームジャム
 - サーシャさん・・・棒の色が出ないのは、WebGLのQuality設定をしていないから
