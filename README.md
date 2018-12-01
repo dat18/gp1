@@ -18,6 +18,10 @@
   - [寸前みやこ. unity1week お題「10」私的ランキング](https://szmiyako.blogspot.com/2018/11/unity1week-10_30.html)
 
 # 後期8回目(12/7)
+## リレー学習
+- [Udemy. ユニティちゃんが教える！初心者向けUnity講座 ](https://www.udemy.com/unity-chan-tutorial-01)
+  - 進め方と担当者の決定
+
 ## 1コマ目：設計の話(2)
 - オブジェクト指向　CHitoクラスを作ったので、その続き
 
