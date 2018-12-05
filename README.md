@@ -10,27 +10,20 @@
 - [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
-# Unity1週間ゲームジャム
-- 11/19(月) 0:00 お題発表＆スタート
-- 11/25(日) 20:00 終了
-- 関連ツイート https://twitter.com/hashtag/unity1week?f=tweets&vertical=default
-  - ヨウくんの実況 https://youtu.be/Sj0Piq4_4oY?t=13861
-  - [寸前みやこ. unity1week お題「10」私的ランキング](https://szmiyako.blogspot.com/2018/11/unity1week-10_30.html)
 
 # 後期8回目(12/7)
-## 調査と報告
-- [Udemy. ユニティちゃんが教える！初心者向けUnity講座 ](https://www.udemy.com/unity-chan-tutorial-01)
-  - オブジェクト指向学習班と、Unity講座調査班に分かれる
-  - 進め方と担当者の決定
-
 ## 1コマ目：設計の話(2)
 - オブジェクト指向　CHitoクラスを作ったので、その続き
 
 ## 2コマ目：将棋の検討
-- 水曜日に作った将棋盤を実装していく
-  - コマの検討
-    - 何ができるのか？(メソッド)
-    - どのような情報を持つのか？(プロパティ)
+- オブジェクト指向学習班と、Unity講座調査班に分かれる(こちらで決めます)
+- Unity講座調査班
+  - [Udemy. ユニティちゃんが教える！初心者向けUnity講座 ](https://www.udemy.com/unity-chan-tutorial-01)
+- オブジェクト指向学習班
+  - 水曜日に作った将棋盤をGitHubに登録
+    - フォントを登録から外す
+  - `jibun`ブランチを作成して、今日はそのブランチ上で、自分のやり方で将棋を実装する
+    - 後日、オブジェクト指向で設計したものを実装して、違いを比較しましょう
 
 # 後期7回目(11/30)
 ## 1コマ目：設計の話
@@ -55,6 +48,13 @@
     - https://opengameart.org/content/winter-tileset-16x16
   - unityroomに作品登録と共同作業準備
 - 各自作業
+
+## Unity1週間ゲームジャム
+- 11/19(月) 0:00 お題発表＆スタート
+- 11/25(日) 20:00 終了
+- 関連ツイート https://twitter.com/hashtag/unity1week?f=tweets&vertical=default
+  - ヨウくんの実況 https://youtu.be/Sj0Piq4_4oY?t=13861
+  - [寸前みやこ. unity1week お題「10」私的ランキング](https://szmiyako.blogspot.com/2018/11/unity1week-10_30.html)
 
 # 後期6回目
 ## 話題
