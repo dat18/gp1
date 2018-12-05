@@ -13,6 +13,7 @@
 
 # 後期8回目(12/7)
 ## 話題
+- https://learning.unity3d.jp/
 - https://learning.unity3d.jp/1624/
 
 ## 1コマ目：設計の話(2)
