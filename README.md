@@ -15,6 +15,7 @@
 ## 話題
 - https://learning.unity3d.jp/
 - https://learning.unity3d.jp/1624/
+- [無料アセットが色々出ているので、しばらくアセット探し時間](https://assetsale.herokuapp.com/ja/free)
 
 ## 1コマ目：設計の話(2)
 - オブジェクト指向　CHitoクラスを作ったので、その続き
