@@ -18,7 +18,23 @@
 - [無料アセットが色々出ているので、しばらくアセット探し時間](https://assetsale.herokuapp.com/ja/free)
 
 ## 1コマ目：設計の話(2)
+- 前回のプロジェクトがない人は、 `a館3f-6f共用`ドライブを開いて、`Z:\2018年\ゲーム学科\学生用\gp1`フォルダーを開いて、`object1130`を、自分のPCのドキュメントフォルダー内の自分の名前のフォルダーに貼り付ける
+- Git管理をする
+  - GitHub Desktopを起動して、GitHubのアカウントでログイン
+  - File > New Repositoryを選択
+  - Local path欄のChooseをクリックして、object1130フォルダーを選択
+  - Local path欄の最後の`object1130`を選択して、[Ctrl]+[X]で切り取り
+  - Nameに`object1130`を貼り付ける
+  - Initialize this...にチェック
+  - Git ignoreを`Visual Studio`に設定
+  - *Create respository*をクリック
+
+以上で、VSプロジェクトをGitで管理できるようになる。今回はGitHubにアップする必要はないので、コミットだけしていく。
+
 - オブジェクト指向　CHitoクラスを作ったので、その続き
+
+## 手順
+- 今日の手順
 
 ## 2コマ目：将棋の検討
 - オブジェクト指向学習班
