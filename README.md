@@ -22,7 +22,7 @@
 
 ## 2コマ目：将棋の作成
 - 前回検討したことを全員でまとめていく
-  - https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/edit?usp=sharing
+  - [将棋の検討](https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/edit?usp=sharing)
 
 # 後期8回目(12/7)
 ## 話題
