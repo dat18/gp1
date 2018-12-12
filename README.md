@@ -10,6 +10,24 @@
 - [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
+# 後期9回目(12/14)
+## 1コマ目：設計の話(3)
+- 前回のプロジェクトがない人は以下で準備しておくこと
+  - https://github.com/dat18/object1130 を開く
+  - 右の*Clone or download*ボタンをクリックして、*Download ZIP*をクリック
+  - ダウンロードが完了した`object1130-master.zip`をクリックする
+  - 表示される`object1130-master`フォルダーをドラッグして、ドキュメントの自分のフォルダーにドロップする
+  - ドラッグ＆ドロップした`object1130-master`フォルダーを開いて、`object1130.sln`(Microsoft Visual Studio Solution File)をダブルクリックして開く
+- 前回、CHitoクラスの機能が完成した。鳥と魚クラスを作る
+
+## 2コマ目：将棋の作成
+- 前回検討したことを全員でまとめていく
+  - 何ができるかをリストアップ
+  - リストアップした動作を実行するのにふさわしいオブジェクトは何か
+  - プログラムの大枠(シーン)を考える
+  - ゲームの流れを考える
+  - 実装する手順を考える
+  - 実装開始
 
 # 後期8回目(12/7)
 ## 話題
