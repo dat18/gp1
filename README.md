@@ -30,6 +30,7 @@
   - 作業が完了して、実行可能な状態であれば、`master`にマージする
 
 ## 2コマ目：将棋の作成
+- [Unityでポリモーフィズムの演習](https://docs.google.com/document/d/1Rv94UgnEGdv4C987IZiobCYUO3CW8dB9hsynWZuD_mA/edit?usp=sharing)
 - 前回検討したことを全員でまとめていく
   - [将棋の検討](https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/edit?usp=sharing)
 
