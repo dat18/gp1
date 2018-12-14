@@ -10,6 +10,12 @@
 - [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
+# 後期10回目(12/21)
+## 1コマ目：設計の復習
+- 先週やった内容を、輪読をしながら再現する
+
+
+
 # 後期9回目(12/14)
 ## 1コマ目：設計の話(3)
 - 前回のプロジェクトがエラーなどで動かない人は以下で準備しておくこと
