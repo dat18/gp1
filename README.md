@@ -11,9 +11,19 @@
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
 # 後期10回目(12/21)
+## 正月休み課題
+- paizaのcランクに挑戦(取れなくても、10問はチャレンジすること)
+- 1週間ゲームジャム参加済みの人
+  - これまで作成した作品について、最低一ヶ所、ポリモーフィズムを使って分岐を減らして、それについて、元のコードと改良後のコードを示した解説をGoogleドキュメントやブログなどにまとめる
+- 1週間ゲームジャム未参加の人
+  - 自作ゲームを完成させる
+
 ## 1コマ目：設計の復習
 - 先週やった内容を、輪読をしながら再現する
 
+## 2コマ目：将棋
+- 検討したことを全員でまとめていく
+  - [将棋の検討](https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/edit?usp=sharing)
 
 
 # 後期9回目(12/14)
@@ -29,10 +39,8 @@
     - ZIPをダウンロードした人は、この作業は不要
   - 作業が完了して、実行可能な状態であれば、`master`にマージする
 
-## 2コマ目：将棋の作成
+## 2コマ目
 - [Unityでポリモーフィズムの演習](https://docs.google.com/document/d/1Rv94UgnEGdv4C987IZiobCYUO3CW8dB9hsynWZuD_mA/edit?usp=sharing)
-- 前回検討したことを全員でまとめていく
-  - [将棋の検討](https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/edit?usp=sharing)
 
 # 後期8回目(12/7)
 ## 話題
