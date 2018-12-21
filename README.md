@@ -10,6 +10,16 @@
 - [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
+# 後期11回目
+## 正月休み課題確認
+- paizaのCランク、あるいは、Cランクの問題10問
+- 1週間ゲームジャム参加済みの人
+  - ポリモーフィズムを使って分岐を減らした解説発表
+- 1週間ゲームジャム未参加の人
+  - 自作ゲームの発表
+
+---
+
 # 後期10回目(12/21)
 ## 正月休み課題
 - paizaのcランクに挑戦(取れなくても、10問はチャレンジすること)
@@ -38,7 +48,7 @@
   - https://github.com/dat18/object1130 を開く
   - 右の*Clone or download*ボタンをクリックして、*Download ZIP*をクリック
   - ダウンロードが完了した`object1130-master.zip`をクリックする
-  - 表示される`object1130-master`フォルダーをドラッグして、ドキュメントの自分のフォルダーにドロップする
+ - 表示される`object1130-master`フォルダーをドラッグして、ドキュメントの自分のフォルダーにドロップする
   - ドラッグ＆ドロップした`object1130-master`フォルダーを開いて、`object1130.sln`(Microsoft Visual Studio Solution File)をダブルクリックして開く
 - 前回、CHitoクラスの機能が完成した。鳥と魚クラスを作る
   - 自分のプロジェクトで作業をする場合は、今日の作業用のブランチ`day1214`を作成してそこで作業
