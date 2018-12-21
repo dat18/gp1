@@ -18,6 +18,9 @@
 - 1週間ゲームジャム未参加の人
   - 自作ゲームの発表
 
+## 残りの時間
+- [将棋の検討](https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/edit?usp=sharing)のつづき
+
 ---
 
 # 後期10回目(12/21)
