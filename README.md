@@ -20,6 +20,12 @@
 
 ## 1コマ目：設計の復習
 - 先週やった内容を、輪読をしながら再現する
+  - https://github.com/dat18/object1130 を開く
+  - 右の*Clone or download*ボタンをクリックして、*Download ZIP*をクリック
+  - ダウンロードが完了した`object1130-master.zip`をクリックする
+  - 表示される`object1130-master`フォルダーをドラッグして、デスクトップにドロップする
+  - ドラッグ＆ドロップした`object1130-master`フォルダーを開いて、`object1130.sln`(Microsoft Visual Studio Solution File)をダブルクリックして開く
+
 
 ## 2コマ目：将棋
 - 検討したことを全員でまとめていく
