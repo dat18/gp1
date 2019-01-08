@@ -20,6 +20,7 @@
 
 ## 残りの時間
 - [将棋の検討](https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/edit?usp=sharing)のつづき
+- GitHubの練習
 
 ---
 
