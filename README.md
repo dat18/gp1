@@ -12,6 +12,9 @@
 
 # 後期11回目
 ## 正月休み課題確認
+- YouTubeで画面共有して報告してください
+  - 画面共有の手順 https://docs.google.com/document/d/1K2qQQWYRZjeqF4AO__FPObyyHOBDVMgdy8bhGiCz8xI/
+  - Trelloにログイン後、報告用Trello https://trello.com/c/qubVpfgn/4-1-11 を開いて、コメントで動画URLを貼り付ける
 - paizaのCランク、あるいは、Cランクの問題10問
 - 1週間ゲームジャム参加済みの人
   - ポリモーフィズムを使って分岐を減らした解説発表
