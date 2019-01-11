@@ -22,8 +22,8 @@
   - 自作ゲームの発表
 
 ## 残りの時間
-- [将棋の検討](https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/edit?usp=sharing)のつづき
-- GitHubの練習
+- [GitHubの練習](https://docs.google.com/document/d/1_-4IYojfAzUwW-fk2GSaoDq8zzOp5EID5JemP52Lt6w/)
+- [将棋の検討](https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/)のつづき
 
 ---
 
