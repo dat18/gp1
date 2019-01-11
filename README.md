@@ -10,6 +10,12 @@
 - [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
+# 後期12回目(1/18)
+## 予定
+- [GitHubの練習](https://docs.google.com/document/d/1_-4IYojfAzUwW-fk2GSaoDq8zzOp5EID5JemP52Lt6w/)
+  - Unity Collaborateで管理していたプロジェクトをGitHubに登録する
+- [将棋の検討](https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/)のつづき
+
 # 後期11回目
 ## 正月休み課題確認
 - YouTubeで画面共有して報告してください
