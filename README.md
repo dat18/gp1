@@ -11,6 +11,9 @@
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
 # 後期12回目(1/18)
+## 参考
+- [naichi's lab. 【初心者向け】UnityプロジェクトにGitを導入しGitHubと連携する手順](https://blog.naichilab.com/entry/unity-github)
+
 ## 予定
 - [GitHubの練習](https://docs.google.com/document/d/1_-4IYojfAzUwW-fk2GSaoDq8zzOp5EID5JemP52Lt6w/)
   - Unity Collaborateで管理していたプロジェクトをGitHubに登録する
