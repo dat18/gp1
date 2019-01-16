@@ -11,13 +11,50 @@
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
 # 後期12回目(1/18)
+## 話題
+- [トモぞヴP. 学生よ、イベントに行こう【unity1week Meetup in Tokyo 2019】](http://tomozooo.hatenablog.com/entry/2019/01/15/220528)
+- [Hakone's portfolio.](http://hakone-gamedev.strikingly.com/)
+- [「学生のうちに、プロ以上の力を身に付けられる」　Fate/Grand Order開発者が“ゲーム業界志望者”にアドバイスしたこと](http://www.itmedia.co.jp/news/articles/1901/11/news013.html)
+
 ## 参考
 - [naichi's lab. 【初心者向け】UnityプロジェクトにGitを導入しGitHubと連携する手順](https://blog.naichilab.com/entry/unity-github)
 
 ## 予定
 - [GitHubの練習](https://docs.google.com/document/d/1_-4IYojfAzUwW-fk2GSaoDq8zzOp5EID5JemP52Lt6w/)
   - Unity Collaborateで管理していたプロジェクトをGitHubに登録する
+- よけとるを全員でいじる
 - [将棋の検討](https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/)のつづき
+
+### 日本ゲーム大賞に向けた企画会議
+- [概要](http://awards.cesa.or.jp/info/181203.html)
+- 春休み中に、チームで動けるようにすることを目指す
+- ルールとスケジュールの確認
+  - 2: 1/16, 18
+  - 3: 1/23, 25
+  - 4: 1/30
+  - 5: 2/6, 2/8
+  - (来年度の日程はまだ出ていないので、参考までに5月末までの今年度の日程)
+  - 6: 4/18, 20
+  - 7: 4/27
+  - 8: 5/2
+  - 9: 5/9, 11
+  - 10: 5/16, 18
+  - 11: 5/23, 25
+  - 12: 5/30
+- 担当について考える
+  - [paiza. ゲームエンジニア入門](https://paiza.jp/works/game/primer/gameengineer-primer-01/15002)
+
+--- 以下、時間次第
+
+- 企画参考
+  - 参考：[個人開発のUI設計術](https://crieit.net/posts/UI)
+  - 参考：[ゲームAI の原点『パックマン』はいかにして生み出されたのか？](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9670&item_no=1&page_id=13&block_id=23)
+  - 企画概要
+  - サムネイル
+  - ターゲットデバイス
+  - 解像度の想定
+  - 利用したいアセットの調査
+
 
 # 後期11回目
 ## 正月休み課題確認
