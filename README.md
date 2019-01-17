@@ -23,6 +23,12 @@
 - [GitHubの練習](https://docs.google.com/document/d/1_-4IYojfAzUwW-fk2GSaoDq8zzOp5EID5JemP52Lt6w/)
   - Unity Collaborateで管理していたプロジェクトをGitHubに登録する
 - よけとるを全員でいじる
+  - https://github.com/am1tanaka/yoketoru2018-github/
+  - 協力者(Collaborator)に登録(昨日、dat18-teamからの招待メールがいっていたら、不要なので削除してください)
+  - クローン
+  - データ更新の練習
+  - ブランチの作成
+  - シーンの作成
 - [将棋の検討](https://docs.google.com/document/d/1ylrRb29bnHWOUZrZssI4yfDYeDTDGPqwM5m-KJe8B6c/)のつづき
 
 ### 日本ゲーム大賞に向けた企画会議
