@@ -20,6 +20,7 @@
 - [naichi's lab. 【初心者向け】UnityプロジェクトにGitを導入しGitHubと連携する手順](https://blog.naichilab.com/entry/unity-github)
 
 ## 予定
+- [今日の手順](https://docs.google.com/document/d/1RoAv9p0fMTvKul-9OsZ5dHJhKDSQEwOzm5ypkGdotKQ/)
 - [GitHubの練習](https://docs.google.com/document/d/1_-4IYojfAzUwW-fk2GSaoDq8zzOp5EID5JemP52Lt6w/)
   - Unity Collaborateで管理していたプロジェクトをGitHubに登録する
 - よけとるを全員でいじる
