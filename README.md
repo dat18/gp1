@@ -10,6 +10,20 @@
 - [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
+# 後期13回目(1/23)
+## 予定
+### GitHubの練習 よけとるをみんなで改造
+- 自分用の作業ブランチを作る
+- 自分用のシーンを複製して作る
+- 要素を追加する
+- プルリクエスト
+
+### 正月課題を進める
+- ポートフォリオ
+- 作品 or ポリモーフィズム
+- paiza
+
+
 # 後期12回目(1/18)
 ## 話題
 - [トモぞヴP. 学生よ、イベントに行こう【unity1week Meetup in Tokyo 2019】](http://tomozooo.hatenablog.com/entry/2019/01/15/220528)
@@ -19,7 +33,7 @@
 ## 参考
 - [naichi's lab. 【初心者向け】UnityプロジェクトにGitを導入しGitHubと連携する手順](https://blog.naichilab.com/entry/unity-github)
 
-## 予定
+## 内容
 - [今日の手順](https://docs.google.com/document/d/1RoAv9p0fMTvKul-9OsZ5dHJhKDSQEwOzm5ypkGdotKQ/)
 - [GitHubの練習](https://docs.google.com/document/d/1_-4IYojfAzUwW-fk2GSaoDq8zzOp5EID5JemP52Lt6w/)
   - Unity Collaborateで管理していたプロジェクトをGitHubに登録する
