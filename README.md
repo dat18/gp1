@@ -11,6 +11,10 @@
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
 # 後期13回目(1/23)
+## 話題
+- [Brackeys. Making of FARM ALARM!](https://youtu.be/DvptCsTVqV4)
+- [UnityTechnologiesJapan. 48時間で作るゲームの企画を3時間できっちり決める](https://www.slideshare.net/UnityTechnologiesJapan/483-128649646?ref=https://cards-frame.twitter.com/i/cards/tfw/v1/uc/1087947414495997953)
+
 ## 予定
 ### GitHubの練習 よけとるをみんなで改造
 - 自分用の作業ブランチを作る
