@@ -10,12 +10,20 @@
 - [小樽総合デザイン事務局. Photoshopで写真を水彩画風に加工するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-suisai/)
 - [小樽総合デザイン事務局. Photoshopで画像をイラスト化するためのチュートリアル](https://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 
-# 後期13回目(1/23)
+# 後期14回目(2/1)
+## 予定
+### GitHubの練習 よけとるをみんなで改造
+- [キャラクター案、作業進捗](https://docs.google.com/document/d/1y1ZcrwQDy2jLFVObnCxLha7oMne4ngx_Re2snxrqFRo/)
+- 自分用のアイテムを作成する
+- プルリクエスト
+- 統合したものを受け取る
+
+# 後期13回目(1/25)
 ## 話題
 - [Brackeys. Making of FARM ALARM!](https://youtu.be/DvptCsTVqV4)
 - [UnityTechnologiesJapan. 48時間で作るゲームの企画を3時間できっちり決める](https://www.slideshare.net/UnityTechnologiesJapan/483-128649646?ref=https://cards-frame.twitter.com/i/cards/tfw/v1/uc/1087947414495997953)
 
-## 予定
+## 内容
 ### GitHubの練習 よけとるをみんなで改造
 - [キャラクター案、作業進捗](https://docs.google.com/document/d/1y1ZcrwQDy2jLFVObnCxLha7oMne4ngx_Re2snxrqFRo/)
 - 自分用の作業ブランチを作る
@@ -27,7 +35,6 @@
 - ポートフォリオ
 - 作品 or ポリモーフィズム
 - paiza
-
 
 # 後期12回目(1/18)
 ## 話題
