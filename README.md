@@ -17,6 +17,7 @@
 
 ## 予定
 ### GitHubの練習 よけとるをみんなで改造
+- [キャラクター案、作業進捗](https://docs.google.com/document/d/1y1ZcrwQDy2jLFVObnCxLha7oMne4ngx_Re2snxrqFRo/)
 - 自分用の作業ブランチを作る
 - 自分用のシーンを複製して作る
 - 要素を追加する
