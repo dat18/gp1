@@ -18,6 +18,14 @@
 - プルリクエスト
 - 統合したものを受け取る
 
+### 日本ゲーム大賞テーマの確認
+- プロジェクトの準備を開始
+  - Unityのプロジェクト作成
+  - GitHubにプライベートリポジトリーとしてパブリッシュ
+  - 解像度の設定とWebGL設定
+  - unityroomに投稿
+
+
 # 後期13回目(1/25)
 ## 話題
 - [Brackeys. Making of FARM ALARM!](https://youtu.be/DvptCsTVqV4)
