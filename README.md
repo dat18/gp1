@@ -12,18 +12,18 @@
 
 # 後期14回目(2/1)
 ## 予定
-### GitHubの練習 よけとるをみんなで改造
-- [キャラクター案、作業進捗](https://docs.google.com/document/d/1y1ZcrwQDy2jLFVObnCxLha7oMne4ngx_Re2snxrqFRo/)
-- 自分用のアイテムを作成する
-- プルリクエスト
-- 統合したものを受け取る
-
 ### 日本ゲーム大賞テーマの確認
 - プロジェクトの準備を開始
   - Unityのプロジェクト作成
   - GitHubにプライベートリポジトリーとしてパブリッシュ
   - 解像度の設定とWebGL設定
   - unityroomに投稿
+
+### GitHubの練習 よけとるをみんなで改造
+- [キャラクター案、作業進捗](https://docs.google.com/document/d/1y1ZcrwQDy2jLFVObnCxLha7oMne4ngx_Re2snxrqFRo/)
+- 自分用のアイテムを作成する
+- プルリクエスト
+- 統合したものを受け取る
 
 
 # 後期13回目(1/25)
