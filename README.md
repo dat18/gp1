@@ -19,8 +19,12 @@
   - GitHubにプライベートリポジトリーとしてパブリッシュ
   - 解像度の設定とWebGL設定
   - unityroomに投稿
+- Trelloにボードを作成
+  - ゲームの概要をメモ
+  - 作業をリストアップ
+    - [GGJ猛者のつぶやき](https://mobile.twitter.com/geekdrums/status/1089841297702055936)
 
-### GitHubの練習 よけとるをみんなで改造
+### GitHubの練習 よけとるをみんなで改造(時間があれば)
 - [キャラクター案、作業進捗](https://docs.google.com/document/d/1y1ZcrwQDy2jLFVObnCxLha7oMne4ngx_Re2snxrqFRo/)
 - 自分用のアイテムを作成する
 - プルリクエスト
