@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | SashaYoketoru</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Builds.json", {onProgress: UnityProgress});
+    </script>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="gameContainer" style="width: 960px; height: 600px"></div>
+      <div class="footer">
+        <div class="webgl-logo"></div>
+        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+        <div class="title">SashaYoketoru</div>
+      </div>
+
+      <div>
+          <div class="manual">
+              <h3>操作方法</h3>
+              <ul>
+                  <li>マウスクリックでゲーム開始</li>
+                  <li>マウス操作で、プレイヤー(白い光)を操作</li>
+              </ul>
+          </div>
+          <div class="manual">
+              <h3>ルール</h3>
+              <ul>
+                  <li>オレンジの光を全て取るとクリア</li>
+                  <li>紫の光にぶつかるとゲームオーバー</li>
+              </ul>
+          </div>
+          <div class="manual">
+              <h3>利用アセット</h3>
+              <ul>
+                  <li><a href="https://pin.it/h2zzy62yhezwbb">Nico Hohn.</a> 背景グラフィック</li>
+                  <li><a href="http://www.dafont.com/bear-hugs.font">ratticsassin makes fonts. Bear Hugs</a> フォント</li>
+                  <li><a href="http://marusexijaxs.web.fc2.com/tegakifont.html#tegakifont2">きずだらけのぎゃーてー Version 2.073.</a> フォント</li>
+                  <li><a href="https://maoudamashii.jokersounds.com">魔王魂.</a> 効果音/BGM</li>
+                  <li>Unity Technologies. TextMeshPro</li>
+                  <li>Unity Technologies. ParticleSystems</li>
+              </ul>
+          </div>
+
+          <div class="manual">
+            <h3>展示のための変更点</h3>
+            <ul>
+                <li>アイテム取得時に発生するパーティクルがプレハブではなかったため、エラーが発生していたのを修正</li>
+                <li>パーティクルの発生場所を、アイテムの座標に修正</li>
+                <li>クリア処理を実装</li>
+            </ul>
+          </div>
+
+    </div>
+  </body>
+</html>
